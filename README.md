@@ -23,7 +23,7 @@ This repository contains materials and worked solutions of assignments of [`Deep
 <tr>
     <td>Week 3</td>
     <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_1_-_Neural_Networks_and_Deep_Learning/Week_3">Lecture Notes</a></td>
-    <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_1_-_Neural_Networks_and_Deep_Learning/Week_3/assignment/Planar_data_classification_with_one_hidden_layer_v3.ipynb">Assignment</a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_1_-_Neural_Networks_and_Deep_Learning/Week_3/assignment/Planar_data_classification_with_one_hidden_layer_v3.ipynb">Assignment 1</a></td>
     <td></td>
 </tr>
 <tr>
@@ -39,9 +39,14 @@ This repository contains materials and worked solutions of assignments of [`Deep
 <table>
 <tr>
     <td>Week 1</td>
-    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_1_-_Neural_Networks_and_Deep_Learning/Week_2">Lecture Notes</a></td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_2_-_Improving_Deep_Neural_Networks/Week_1">Lecture Notes</a></td>
     <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_2_-_Improving_Deep_Neural_Networks/Week_1/assignment/Initialization.ipynb">Assignment 1</a></td>
     <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_2_-_Improving_Deep_Neural_Networks/Week_1/assignment/Regularization.ipynb">Assignment 2</a></td>
     <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_2_-_Improving_Deep_Neural_Networks/Week_1/assignment/Gradient_Checking.ipynb">Assignment 3</a></td>
+</tr>
+<tr>
+    <td>Week 2</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_2_-_Improving_Deep_Neural_Networks/Week_2">Lecture Notes</a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_2_-_Improving_Deep_Neural_Networks/Week_2/assignment/Optimization_methods.ipynb">Assignment 1</a></td>
 </tr>
 </table>
