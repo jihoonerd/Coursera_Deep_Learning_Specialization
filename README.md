@@ -49,4 +49,9 @@ This repository contains materials and worked solutions of assignments of [`Deep
     <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_2_-_Improving_Deep_Neural_Networks/Week_2">Lecture Notes</a></td>
     <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_2_-_Improving_Deep_Neural_Networks/Week_2/assignment/Optimization_methods.ipynb">Assignment 1</a></td>
 </tr>
+<tr>
+    <td>Week 3</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_2_-_Improving_Deep_Neural_Networks/Week_3">Lecture Notes</a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_2_-_Improving_Deep_Neural_Networks/Week_3/assignment/Tensorflow_Tutorial.ipynb">Assignment 1</a></td>
+</tr>
 </table>
