@@ -70,3 +70,31 @@ This repository contains materials and worked solutions of assignments of [`Deep
     <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_3_-_Structuring_Machine_Learning_Projects/Week_2">Lecture Notes</a></td>
 </tr>
 </table>
+
+### Course 4: Convolutional Neural Networks
+
+<table>
+<tr>
+    <td>Week 1</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_4_-_Convolutional_Neural_Networks/Week_1">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_1/assignment/Convolution_model_-_Step_by_Step_-_v2.ipynb">Assignment 1</a></td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_1/assignment/Convolution_model_-_Application_-_v1.ipynb">Assignment 2</a></td>
+</tr>
+<tr>
+    <td>Week 2</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_4_-_Convolutional_Neural_Networks/Week_2">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_2/assignment/Residual_Networks_-_v2.ipynb">Assignment 1</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_2/assignment/Keras_-_Tutorial_-_Happy_House_v2.ipynb">Assignment 2</a></td>
+</tr>
+<tr>
+    <td>Week 3</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_4_-_Convolutional_Neural_Networks/Week_3">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_3/assignment/Autonomous_driving_application_-_Car_detection_-_v1.ipynb">Assignment 1</a></td>
+</tr>
+<tr>
+    <td>Week 4</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_4_-_Convolutional_Neural_Networks/Week_4">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_4/assignment/Art_Generation_with_Neural_Style_Transfer_-_v2.ipynb">Assignment 1</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_4/assignment/Face_Recognition_for_the_Happy_House_-_v3.ipynb">Assignment 2</a></td>
+</tr>
+</table>
