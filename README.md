@@ -60,7 +60,13 @@ This repository contains materials and worked solutions of assignments of [`Deep
 
 <table>
 <tr>
+<tr>
     <td>Week 1</td>
     <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_3_-_Structuring_Machine_Learning_Projects/Week_1">Lecture Notes</a></td>
+</tr>
+</tr>
+<tr>
+    <td>Week 2</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_3_-_Structuring_Machine_Learning_Projects/Week_2">Lecture Notes</a></td>
 </tr>
 </table>
