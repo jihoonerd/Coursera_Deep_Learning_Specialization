@@ -98,3 +98,27 @@ This repository contains materials and worked solutions of assignments of [`Deep
     <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_4_-_Convolutional_Neural_Networks/Week_4/assignment/Face_Recognition_for_the_Happy_House_-_v3.ipynb">Assignment 2</a></td>
 </tr>
 </table>
+
+### Course 5: Sequence Models
+
+<table>
+<tr>
+    <td>Week 1</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_5_-_Sequence_Models/Week_1">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_1/assignment/Building_a_Recurrent_Neural_Network_-_Step_by_Step_-_v3.ipynb">Assignment 1</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_1/assignment/Dinosaurus_Island_-_Character_level_language_model_final_-_v3.ipynb">Assignment 2</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_1/assignment/Improvise_a_Jazz_Solo_with_an_LSTM_Network_-_v1.ipynb">Assignment 3</a></td>
+</tr>
+<tr>
+    <td>Week 2</td>
+    <td><a href="">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_2/assignment/Operations_on_word_vectors_-_v2.ipynb">Assignment 1</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_2/assignment/Emojify_-_v2.ipynb">Assignment 2</a></td>
+</tr>
+<tr>
+    <td>Week 3</td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_5_-_Sequence_Models/Week_3">Lecture Notes</a></td>
+    <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_3/assignment/Neural_machine_translation_with_attention_-_v3.ipynb">Assignment 1</a></td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_3/assignment/Trigger_word_detection_-_v1.ipynb">Assignment 2</a></td>
+</tr>
+</table>
