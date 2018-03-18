@@ -1,5 +1,6 @@
 # Deep Learning Specialization
 
+![deep_learning_specialization](./course_image.png)
 ## Overview
 This repository contains materials and worked solutions of assignments of [`Deep Learning Specialization`](https://www.coursera.org/specializations/deep-learning) course.
 
@@ -111,7 +112,7 @@ This repository contains materials and worked solutions of assignments of [`Deep
 </tr>
 <tr>
     <td>Week 2</td>
-    <td><a href="">Lecture Notes</a></td>
+    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_5_-_Sequence_Models/Week_2">Lecture Notes</a></td>
     <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_2/assignment/Operations_on_word_vectors_-_v2.ipynb">Assignment 1</a></td>
     <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_2/assignment/Emojify_-_v2.ipynb">Assignment 2</a></td>
 </tr>
