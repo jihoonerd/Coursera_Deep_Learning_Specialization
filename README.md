@@ -2,7 +2,7 @@
 
 ![deep_learning_specialization](./course_image.png)
 ## Overview
-This repository contains materials and worked solutions of assignments of [`Deep Learning Specialization`](https://www.coursera.org/specializations/deep-learning) course.
+This repository contains every material and worked solution of [`Deep Learning Specialization`](https://www.coursera.org/specializations/deep-learning) from Coursera.
 
 ## Contents
 
