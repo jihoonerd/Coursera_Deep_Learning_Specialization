@@ -120,6 +120,6 @@ This repository contains every material and worked solution of [`Deep Learning S
     <td>Week 3</td>
     <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/tree/master/Course_5_-_Sequence_Models/Week_3">Lecture Notes</a></td>
     <td><a href="http://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_3/assignment/Neural_machine_translation_with_attention_-_v3.ipynb">Assignment 1</a></td>
-    <td><a href="https://github.com/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_3/assignment/Trigger_word_detection_-_v1.ipynb">Assignment 2</a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/jihoon1990/Coursera_Deep_Learning/blob/master/Course_5_-_Sequence_Models/Week_3/assignment/Trigger_word_detection_-_v1.ipynb">Assignment 2</a></td>
 </tr>
 </table>
